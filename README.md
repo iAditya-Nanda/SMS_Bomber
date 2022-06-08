@@ -50,11 +50,11 @@ optional arguments:
 ## Changelog
 
 ```
-    -- Mar, 2020
+    -- Mar, 2022
       - added more configs
       - fixed some bugs
       
-    -- Nov, 2019
+    -- Apr, 2022
       - multiple country option
       - more api for india
       - proxy feature to avoid ip blocking
@@ -63,4 +63,4 @@ optional arguments:
 
 ## License
 
-This project is licensed under the [GNU General Public License v3.0](https://github.com/iMro0t/bomb3r/blob/master/LICENSE)
+This project is licensed under the 
