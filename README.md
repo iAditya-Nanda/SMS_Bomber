@@ -50,11 +50,11 @@ optional arguments:
 ## Changelog
 
 ```
-    -- Mar, 2022
+    -- Mar, 2020
       - added more configs
       - fixed some bugs
       
-    -- Apr, 2022
+    -- Nov, 2019
       - multiple country option
       - more api for india
       - proxy feature to avoid ip blocking
@@ -63,4 +63,4 @@ optional arguments:
 
 ## License
 
-This project is licensed under the 
+This project is licensed under the [Public License](https://github.com/iAditya-Nanda/SMS_Bomber/blob/main/LICENSE)
