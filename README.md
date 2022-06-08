@@ -13,7 +13,7 @@ Made with ❤ in IN.
 Use the package manager [pip](https://pip.pypa.io/en/stable/installing/) to install bomb3r.
 
 ```bash
-git clone https://github.com/iMro0t/bomb3r.git
+git clone https://github.com/iAditya-Nanda/SMS_Bomber.git
 cd bomb3r
 pip3 install -r requirements.txt
 ```
